@@ -11,7 +11,7 @@ jobs:
  
     steps:
       - run:
-          name: Windows RDP Circle CI NEW UPDATED
+          name: Windows  RDP Circle CI NEW UPDATED
           command: |
             Set-Variable -Name "PASSWORD" -Value "haidanh912@"
             Set-Variable -Name "NGROK" -Value "2F4K74YKRsxbB66EzDrCMG9Yfdr_4QaaqMkXESJydZgy1qZ9a"
